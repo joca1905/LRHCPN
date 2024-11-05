@@ -36,6 +36,10 @@ The RLHCPN opens up new possibilities for the modeling of discrete event systems
 
 ![RHCPN_planta2](images/Check-for-Fault.png)
 
+<p align="justify">
+In the detection of attacks on IoT services, the RLHCPN can be configured to monitor network traffic and identify anomalous patterns associated with attacks. For instance, IoT sensors can send real-time traffic data to the Petri net model, which classifies it as normal or suspicious traffic using RL algorithms. The model processes the information and makes automatic decisions based on predefined attack patterns, helping to quickly identify threats and activate appropriate responses in the security system.
+</p>
+
 # 📁 Applied Datasets
 
 | **Dataset**                                    | **Description**                                                                                                                                                               |
