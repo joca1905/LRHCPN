@@ -1,4 +1,4 @@
-# RLHCPN
+# LRHCPN
 Implementation of the logistic regression algorithm in colored Petri nets
 ![RLHCPN_classification](images/RL_class.png)
 <p align="justify">
@@ -12,9 +12,9 @@ Implementation of the logistic regression algorithm for colored Petri nets using
 
 # ⚙️ **Implementation Features** 
 
-- **Applicable to binary Classification:** <p align="justify">The RL algorithm implemented in coloured Petri nets (RLHCPN) is suitable for addressing both binary classification problems.</p>
+- **Applicable to binary Classification:** <p align="justify">The LR algorithm implemented in coloured Petri nets (LRHCPN) is suitable for addressing both binary classification problems.</p>
 
-- **Graphical Visualization:** <p align="justify"> The model in Petri nets provides a graphical visualization of the RL algorithm, making the modeling process straightforward and user-friendly.</p>
+- **Graphical Visualization:** <p align="justify"> The model in Petri nets provides a graphical visualization of the LR algorithm, making the modeling process straightforward and user-friendly.</p>
 
 - **Fully Adaptable Implementation:** <p align="justify"> The proposed method offers a fully adaptable implementation and can be used with any set of numerical data for binary classification.</p>
 
@@ -31,7 +31,7 @@ Implementation of the logistic regression algorithm for colored Petri nets using
 
 ![RHCPN_planta1](images/IOT_RL.png)
 <p align="justify">
-The RLHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform binary classification tasks.
+The LRHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform binary classification tasks.
 </p>
 
 ![RHCPN_planta2](images/Check-for-Fault.png)
