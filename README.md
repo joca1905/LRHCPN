@@ -10,6 +10,9 @@ Implementation of the logistic regression algorithm for colored Petri nets using
 :computer: CPN Tools:  https://cpntools.org/
 :memo: Version: 4.0.1
 
+:computer: CPN IDE: https://cpnide.org/
+:memo: Version: 1.24.1031
+
 # ⚙️ **Implementation Features** 
 
 - **Applicable to binary Classification:** <p align="justify">The LR algorithm implemented in coloured Petri nets (LRHCPN) is suitable for addressing both binary classification problems.</p>
