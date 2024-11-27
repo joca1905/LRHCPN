@@ -102,31 +102,27 @@ In the detection of attacks on IoT services, the RLHCPN can be configured to mon
 
 # References
 
-[1] Witten, I.H., Frank, E., Hall, M.A.: Data Mining: Practical Machine Learning Tools and Techniques vol. 3, 3rd edn. Elsevier, Burlington, MA (2011)
+[1] A. Alhowaide, I. Alsmadi, and J. Tang, ``Towards the design of real-time autonomous IoT NIDS,'' Cluster Comput, vol. 26, pp. 2489--2502, 2023. https://doi.org/10.1007/s10586-021-03231-5.
 
-[2] Aggarwal, C.C.: Data Classification: Algorithms and Applications vol. 1, pp. 498–501. CRC Press, New York, USA (2015)
+[2] J. P. da Silva Fonseca, A. R. de Sousa, and J. J. P. Z. de Souza Tavares, ``Modeling and controlling IoT-based devices’ behavior with high-level Petri nets,'' Procedia Computer Science, vol. 217, pp. 1462--1469, 2023. 4th International Conference on Industry 4.0 and Smart Manufacturing. https://doi.org/10.1016/j.procs.2022.12.345.
 
-[3] Nauman, M., Akhtar, N., Alhazmi, O.H., Hameed, M., Ullah, H., Khan, N.: Improving the correctness of medical diagnostics based on machine learning with coloured petri nets. IEEE Access 9, 143434–143447 (2021) https://doi.org/10.1109/ACCESS.2021.3121092
+[3] D. Jurafsky and J. H. Martin, ``Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models,'' 3rd ed., draft, Stanford Univ. and Univ. of Colorado at Boulder, Aug. 2024. 
 
-[4] Salmon, A.Z.O., Foyo, P.M.G., Silva, J.R.: A formal approach to requirements engineering of automated systems: Facing the challenge for new automated systems. Journal of Control, Automation and Electrical Systems 32(4), 815–829 (2021) https://doi.org/10.1007/s40313-021-00731-y
+[4] R. Albuquerque, C. Júnior, G. Barroso, and G. Barreto, ``A novel fully adaptive neural network modeling and implementation using colored Petri nets,'' Discrete Event Dynamic Systems, vol. 33, pp. 1--32, Jun. 2023, doi: 10.1007/s10626-023-00377-9.
 
-[5] Hinojosa Herrera, A., Walshaw, C., Bailey, C.: Improving black box classification model veracity for electronics anomaly detection, pp. 1092–1097 (2020). https://doi.org/10.1109/ICIEA48937.2020.9248258
+[5] M. Nauman, N. Akhtar, O. H. Alhazmi, M. Hameed, H. Ullah, and N. Khan, ``Improving the correctness of medical diagnostics based on machine learning with coloured Petri nets,'' IEEE Access, vol. 9, pp. 143434--143447, 2021, doi: 10.1109/ACCESS.2021.3121092.
 
-[6] Song, Y., Huang, J., Zhou, D., Zha, H., Giles, C.L.: Iknn: Informative k-nearest neighbor pattern classification. In: Kok, J.N., Koronacki, J., Mantaras, R., Matwin, S., Mladenić, D., Skowron, A. (eds.) Knowledge Discovery in Databases: PKDD 2007, pp. 248–264. Springer, Berlin, Heidelberg (2007)
+[6] Y. R. M. de Oliveira, Á. Sobrinho, L. D. da Silva, D. Santos, K. C. Gorgônio, and A. Perkusich, ``Coloured Petri Nets Modeling Multilayer Perceptron Neural Networks,'' in 2024 IEEE International Conference on Consumer Electronics (ICCE), 2024, pp. 1--4. https://doi.org/10.1109/ICCE59016.2024.10444319.
 
-[7] Costelha, H., Lima, P.: Modelling, analysis and execution of robotic tasks using petri nets, pp. 1449–1454 (2007). https://doi.org/10.1109/IROS.2007.4399365
+[7] X. Wang, W. Yu, Z. Ding, X. Zhai, and S. Saha, ``Modeling and Analyzing of Breast Tumor Deterioration Process with Petri Nets and Logistic Regression,'' Complex System Modeling and Simulation, vol. 2, no. 3, pp. 264--272, 2022. https://doi.org/10.23919/CSMS.2022.0016.
 
-[8] Albuquerque, R., Júnior, C., Barroso, G., Barreto, G.: A novel fully adaptive neural network modeling and implementation using colored petri nets. Discrete Event Dynamic Systems 33, 1–32 (2023) https://doi.org/10.1007/s10626-023-00377-9
+[8] Y. Xing, H. Shu, H. Zhao, D. Li, and L. Guo, ``Survey on botnet detection techniques: Classification, methods, and evaluation,'' Math. Probl. Eng., vol. 2021, Article ID 6640499, Apr. 2021, https://doi.org/10.1155/2021/6640499.
 
-[9] Lin, Y.-N., Hsieh, T.-Y., Yang, C.-H., Shen, V., Juang, T., Chen, W.-H.: Deep petri nets of unsupervised and supervised learning. Measurement and Control 53, 002029402092337 (2020) https://doi.org/10.1177/0020294020923375
+[9] Y. Meidan et al., ``N-BaIoT—Network-Based Detection of IoT Botnet Attacks Using Deep Autoencoders,'' IEEE Pervasive Comput., vol. 17, no. 3, pp. 12--22, Jul.--Sep. 2018, doi: 10.1109/MPRV.2018.03367731.
 
-[10] Wang, X., Yu, W., Ding, Z., Zhai, X., Saha, S.: Modeling and analyzing of breast tumor deterioration process with petri nets and logistic regression. Complex System Modeling and Simulation 2, 264–272 (2022) https://doi.org/10.23919/CSMS.2022.0016
+[10] A. Alhowaide, I. Alsmadi, J. Tang, ``Features Quality Impact on Cyber Physical Security Systems,'' 2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), outubro de 2019.
 
-[11] Petrosov, D.A., Lomazov, V.A., Petrosova, N.V.: Model of an artificial neural network for solving the problem of controlling a genetic algorithm using the mathematical apparatus of the theory of petri nets. Applied Sciences 11(9) (2021) https://doi.org/10.3390/app11093899
-
-[12] A. Alhowaide, I. Alsmadi, J. Tang. “Towards the design of real-time autonomous IoT NIDS”, Cluster Computing (2021), pages 1-14, Jan 2021.
-
-[13] A. Alhowaide, I. Alsmadi, J. Tang, “Features Quality Impact on Cyber Physical Security Systems”, 2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), Oct. 2019.
+[11] C. A. Petri, ``Kommunikation mit Automaten'' (Communication with Automata), Ph.D. Thesis, University of Bonn, 1962.
 
 # Citation
 
