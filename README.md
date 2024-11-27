@@ -1,6 +1,6 @@
 # LRHCPN
 Implementation of the logistic regression algorithm in colored Petri nets
-![RLHCPN_classification](images/RL_class.png)
+![RLHCPN_classification](images/RL.png)
 <p align="justify">
 Implementation of the logistic regression algorithm for colored Petri nets using the CPN-tools software. The algorithm works for classification. It includes various functions implemented in CPN-ML and examples of applications in different databases. An excellent tool for those working with CPN-tools and discrete event systems.
 </p>
@@ -32,7 +32,7 @@ Implementation of the logistic regression algorithm for colored Petri nets using
 
 # :bulb: **Simulation of discrete event systems** 
 
-![RHCPN_planta1](images/IOT_RL.png)
+![RHCPN_planta1](images/IOT.png)
 <p align="justify">
 The LRHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform binary classification tasks.
 </p>
