@@ -130,7 +130,7 @@ If this repository helps you in any way, consider citing our paper as follows:
 
 ```bibtex
 @unpublished{moura2024rl,
-  author    = {Joaquim Moura and Vanessa Vieira and Giovanni Barroso and George A. P. Thé and Márcio Amora},
+  author    = {Joaquim O. F. Moura Filho and Vanessa V. Sousa and Giovanni C. Barroso and George A. P. Thé and Márcio A. B. Amora},
   title     = {Modeling the Logistic Regression Algorithm Using Colored Petri Nets to detect anomalous traffic in IoT services},
   note      = {In preparation},
   year      = {2024},
